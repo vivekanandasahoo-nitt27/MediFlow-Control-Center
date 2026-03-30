@@ -1,0 +1,62 @@
+# --------------------
+# Python cache
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --------------------
+# Virtual env & secrets
+# --------------------
+venv/
+.env
+
+# --------------------
+# Gradio cache
+# --------------------
+.gradio/
+
+# --------------------
+# Generated runtime files
+# --------------------
+generated/
+outputs/
+*.mp3
+*.wav
+*.pdf
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Archives & large files
+# --------------------
+*.zip
+
+# --------------------
+# Node / temp
+# --------------------
+node_modules/
+
+app.db
+
+.env
+
+storage/
+doctor_voice.mp3
+__pycache__/
+
+appointment/models/*.h5
+appointment/models/*.pt
+app.db
+
+
+
+media/
