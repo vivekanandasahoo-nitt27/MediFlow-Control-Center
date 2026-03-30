@@ -194,8 +194,28 @@ SENDGRID_API_KEY=your_key
 
 ⚠️ Note: If API keys are not provided, please use the live demo for testing.
 
+
+## 🏆 Hackathon Details
+
+This project was developed and enhanced as part of the **Octoverse Hackathon 2026**.
+
+### 🚀 Key Contributions During Hackathon
+- 🎨 Improved user interface for better accessibility and usability
+- 🚨 Added emergency-aware severity prioritization system
+- 🧠 Enhanced AI decision pipeline for faster and more reliable diagnosis
+- 📅 Optimized smart appointment recommendation and booking flow
+- ⚡ Improved deployment and performance for real-time interaction
+
+### 🎯 Focus Areas
+- Real-world healthcare accessibility
+- Multimodal AI interaction (Voice, Image, Text)
+- Emergency response optimization
+- Scalable cloud-based deployment
+
+### 🌍 Vision
+To build an intelligent healthcare assistant that reduces diagnosis delays, improves patient accessibility, and supports doctors with AI-driven insights in real-time.
+
+
 ## 👨‍💻 Author
 
-Vivekananda Sahoo
-AI Medical Agent — Multimodal Diagnosis & Smart Appointment System
-Built for DigitalOcean Gradient AI Hackathon 
+Vivekananda Sahoo 
