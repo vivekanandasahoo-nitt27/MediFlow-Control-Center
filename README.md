@@ -10,7 +10,7 @@ https://882d45ed8871de7022.gradio.live/
 
 ### 💻 Option 2: Run Locally (2 minutes setup)
 
-git clone  
+git clone  https://github.com/vivekanandasahoo-nitt27/MediFlow-Control-Center
 cd mediflow-gradient-ai  
 pip install -r requirements.txt  
 python app.py  
