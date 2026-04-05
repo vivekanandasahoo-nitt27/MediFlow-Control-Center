@@ -195,10 +195,6 @@ SENDGRID_API_KEY=your_key
 ⚠️ Note: If API keys are not provided, please use the live demo for testing.
 
 
-## 🏆 Hackathon Details
-
-This project was developed and enhanced as part of the **Octoverse Hackathon 2026**.
-
 ### 🚀 Key Contributions During Hackathon
 - 🎨 Improved user interface for better accessibility and usability
 - 🚨 Added emergency-aware severity prioritization system
